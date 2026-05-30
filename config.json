@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routervecrypt",
+        "uuid": 9884874,
+        "checksum": "zpcd9s"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
